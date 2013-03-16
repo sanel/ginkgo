@@ -1,8 +1,8 @@
-# Ginko
+# Ginkgo
 
-Ginko is VM and compiler for
+Ginkgo is VM and compiler for
 [TinyScheme](http://tinyscheme.sourceforge.org) written in
-tinyscheme. Currently it is in alpha state, until get official release.
+TinyScheme. Currently it is in alpha state, until get official release.
 
 ## Usage
 
